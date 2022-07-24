@@ -1,0 +1,50 @@
+				div.container{
+					width: 970px;
+					min-height: 900px;
+					margin: 0px;
+				}
+				div.container div.nav{
+					background-color: #837e7e;
+					width: 230px;
+					min-height: 905px;
+					margin: 0;
+					display: inline-block;
+					margin: 0px;
+					padding: 2px;
+
+
+				}
+				div.nav p{
+					color: black;
+					margin: 10px;
+				}
+				div.container div.nav a{
+					text-decoration: none;
+					color: white;
+					text-decoration-style: none;
+				}
+				.main{
+
+					width: 700px;
+					min-height: 900px;
+					display:inline-block;
+					
+					vertical-align: top;
+					margin-left:  15px;
+					padding: 6px;
+				}
+				.description{
+
+					width: 680px;
+					min-height: 50px;
+					border: 1px solid black;
+					display: inline-block;
+				}
+				
+				.description p{
+					margin-left: 20px;
+
+				}
+				.title{
+					color:gray;
+				}
